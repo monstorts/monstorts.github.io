@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://monstorts.github.io/sitemap.html.gz
+Sitemap: https://monstorts.github.io/app/sitemap.html.gz
+Sitemap: https://monstorts.github.io/assets/sitemap.html.gz
+Sitemap: https://monstorts.github.io/css/sitemap.html.gz
+Sitemap: https://monstorts.github.io/includes/sitemap.html.gz
+Sitemap: https://monstorts.github.io/item/sitemap.html.gz
+Sitemap: https://monstorts.github.io/src/sitemap.html.gz
